@@ -1,23 +1,24 @@
 ﻿# Inventory-Management-System
-Abstract
+Abstract<br>
 The Inventory Management System is a comprehensive solution designed to streamline and automate the process of managing inventory for businesses. It provides a user-friendly interface for tracking products, managing suppliers, and handling orders. The system aims to enhance operational efficiency, reduce errors, and provide real-time insights into inventory levels.
 
-Functionality
-Product Management: Add, update, and remove products from the inventory. Track product details such as name, category, price, and quantity.
-Supplier Management: Maintain a list of suppliers with contact information and associated products.
-Order Management: Process incoming and outgoing orders. Track order status and manage stock levels accordingly.
-Category Management: Organize products into categories for easier management and reporting.
-Customer Management: Manage customer information and track order history.
-Reporting: Generate reports on inventory levels, sales, and order history.
-Search and Filter: Quickly find products, suppliers, and orders using search and filter options.
+Functionality<br>
+Product Management: Add, update, and remove products from the inventory. Track product details such as name, category, price, and quantity.<br>
+Supplier Management: Maintain a list of suppliers with contact information and associated products.<br>
+Order Management: Process incoming and outgoing orders. Track order status and manage stock levels accordingly.<br>
+Category Management: Organize products into categories for easier management and reporting.<br>
+Customer Management: Manage customer information and track order history.<br>
+Reporting: Generate reports on inventory levels, sales, and order history.<br>
+Search and Filter: Quickly find products, suppliers, and orders using search and filter options.<br>
+
 Non-Functionality
-User Authentication: The system does not include built-in user authentication or role-based access control. Users must be managed through external means.
-Multi-language Support: The system does not currently support multiple languages or localization.
-Mobile Responsiveness: The interface is not optimized for mobile devices or tablets.
-Integration with External Systems: The system does not integrate with third-party applications such as accounting software or ERP systems.
+User Authentication: The system does not include built-in user authentication or role-based access control. Users must be managed through external means.<br>
+Multi-language Support: The system does not currently support multiple languages or localization.<br>
+Mobile Responsiveness: The interface is not optimized for mobile devices or tablets.<br>
+Integration with External Systems: The system does not integrate with third-party applications such as accounting software or ERP systems.<br>
+
 ER Diagram
 
-Note: Replace the placeholder image path with the actual path to your ER diagram.
 
 Getting Started
 Clone the Repository
