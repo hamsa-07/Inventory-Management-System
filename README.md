@@ -19,6 +19,7 @@ The Inventory Management System is a comprehensive solution designed to streamli
 3. Integration with External Systems: The system does not integrate with third-party applications such as accounting software or ERP systems.<br>
 
 ## ER Diagram
+![Screenshot 2024-08-02 225403](https://github.com/user-attachments/assets/7d8b5f09-23b8-4eef-8ad3-f5006f1dde9e)
 
 - Product-Category Relationship:Each product is assigned to a specific category, with multiple products belonging to the same category.<br>
 - Product-Brand Relationship:Every product is associated with a single brand, though multiple products can be linked to the same brand.<br>
